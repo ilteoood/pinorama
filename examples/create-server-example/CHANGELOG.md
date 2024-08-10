@@ -1,5 +1,13 @@
 # pinorama-create-server-example
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated dependencies [0b8ae5b]
+  - pinorama-server@0.1.3
+  - pinorama-transport@0.1.2
+
 ## 0.1.2
 
 ### Patch Changes
