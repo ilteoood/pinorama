@@ -1,5 +1,13 @@
 # pinorama-fastify-example
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated dependencies [15d67ab]
+  - pinorama-server@0.1.3
+  - pinorama-transport@0.1.2
+
 ## 0.1.2
 
 ### Patch Changes

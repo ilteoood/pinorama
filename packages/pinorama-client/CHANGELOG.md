@@ -1,5 +1,11 @@
 # pinorama-client
 
+## 0.1.4
+
+### Patch Changes
+
+- 0b8ae5b: chore: improvements
+
 ## 0.1.3
 
 ### Patch Changes

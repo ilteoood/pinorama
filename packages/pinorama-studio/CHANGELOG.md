@@ -1,5 +1,16 @@
 # pinorama-studio
 
+## 0.1.5
+
+### Patch Changes
+
+- 0b8ae5b: chore: improvements
+- Updated dependencies [0b8ae5b]
+- Updated dependencies [15d67ab]
+  - pinorama-client@0.1.4
+  - pinorama-server@0.1.3
+  - pinorama-transport@0.1.2
+
 ## 0.1.4
 
 ### Patch Changes
