@@ -1,5 +1,11 @@
 # pinorama-server
 
+## 0.1.3
+
+### Patch Changes
+
+- 15d67ab: chore: improvements
+
 ## 0.1.2
 
 ### Patch Changes
